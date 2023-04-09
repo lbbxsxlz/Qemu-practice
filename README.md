@@ -1,7 +1,9 @@
 # Qemu-practice
 qemu practice
+[docs](https://wiki.qemu.org/Documentation)
 
 ## build
+[download](https://www.qemu.org/download/)
 ```
 wget https://download.qemu.org/qemu-8.0.0-rc3.tar.xz
 tar xvJf qemu-8.0.0-rc3.tar.xz
