@@ -15,7 +15,7 @@ make
 ```
 apt-get install qemu
 ```
-## commane
+## command
 ```
 qemu-system-x86_64 -smbios help
 ```
@@ -23,3 +23,6 @@ qemu-system-x86_64: -smbios help: Must specify type= or file=
 ```
 qemu-system-x86_64 -device help
 ```
+
+    qemu-system-x86_64 -cpu ?
+    qemu-system-x86_64 -M ?
