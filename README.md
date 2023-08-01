@@ -13,7 +13,8 @@ make
 ```
 ## install
 ```
-apt-get install qemu
+apt-get install qemu-system
+apt-get install qemu-user-static
 ```
 ## command
 ```
