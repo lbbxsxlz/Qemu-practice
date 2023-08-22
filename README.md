@@ -5,6 +5,8 @@ qemu practice
 ## build
 [download](https://www.qemu.org/download/)
 ```
+# install the dependency
+sudo apt-get install git libglib2.0-dev libfdt-dev libpixman-1-dev zlib1g-dev ninja-build
 wget https://download.qemu.org/qemu-8.0.0-rc3.tar.xz
 tar xvJf qemu-8.0.0-rc3.tar.xz
 cd qemu-8.0.0-rc3
